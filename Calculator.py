@@ -1,3 +1,4 @@
+# Simple calculator for begginers in python
 def add(a, b):
 	"""Додавання двох чисел"""
 	return a + b
